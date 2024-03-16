@@ -1,0 +1,57 @@
+# Fichiers de configuration d'environnement
+.env
+
+# Dossiers de l'environnement virtuel Python
+venv/
+env/
+ENV/
+
+# Bytecode Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Dossiers et fichiers de cache
+.cache
+*.cache
+
+# Fichiers de développement d'IDE ou d'éditeur
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+
+# Fichiers de journalisation
+*.log
+
+# Fichiers de données
+*.csv
+*.dat
+*.db
+*.json
+
+# Fichiers de media
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.mp4
+*.mp3
+
+# Fichiers et dossiers de build
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Fichiers temporaires
+tmp/
+temp/
+.venv/
+utils/*.pt
+modelsAI/*.pt
+myenv/
+utils/*.avi
+utils/dataset_charleroi.sql
